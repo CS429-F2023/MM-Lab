@@ -5,7 +5,7 @@ import os
 import math
 from tabulate import tabulate
 
-utilization_target = 60.00
+utilization_target = 75.00
 performance_target = 1400
 
 def get_num_ops(trace_file):
